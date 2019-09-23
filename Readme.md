@@ -4,7 +4,7 @@ This is our source code for the paper: <br>
 Chen, Jiawei, Can Wang, Sheng Zhou, Qihao Shi, Yan Feng, and Chun Chen. "SamWalker: Social Recommendation with Informative Sampling Strategy." In The World Wide Web Conference, pp. 228-239. ACM, 2019.
 
 # Example to run the code.
-We implement SamWalker in MATLAB. Also, we implement sampling process (Personalized random walk) in C++ to improve effeiciency. Beforing running the code, please compile c++ source codes to generate mex file in matlab enviornment:
+We implement SamWalker in MATLAB. Also, we implement sampling process (Personalized random walk) in C++ to improve effeiciency. Before running the code, please compile c++ source codes to generate mex file in matlab enviornment:
 ```matlab
 mex mysamwalknew.cpp
 mex myv2s.cpp
