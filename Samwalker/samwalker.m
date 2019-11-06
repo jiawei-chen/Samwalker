@@ -1,7 +1,4 @@
 function[finalresult]=samwalker(chdata,chtest,chtrust)
-chdata='data1.txt';
-chtest='test1.txt';
-chtrust='trustnetwork.txt';
 eps=1e-16;
 randn('seed',1.0);
 rand('seed',1.0);
