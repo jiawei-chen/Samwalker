@@ -13,7 +13,7 @@ Then,  we can run the code for the example data:
 ```matlab
  samwalker('trainingdata.txt','testdata.txt','trustnetwork.txt')
 ```
-Where the inputs of the spmfmnar function are the paths of the trainning data, the test data and the social network data respectively.<br>
+Where the inputs of the Samwalker function are the paths of the trainning data, the test data and the social network data respectively.<br>
 Each line of trainingdata.txt is: UserID \t ItemID \t 1 <br>
 Each line of testdata.txt is :UserID \t ItemID \t 1 <br>
 Each line of trustnetwork.txt is: User1ID \t User2ID \t 1 <br>
