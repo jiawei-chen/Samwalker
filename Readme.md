@@ -1,9 +1,9 @@
 # SamWalker & SamWalker++
 
-This is our source code for the conference paper: <br>
-Jiawei Chen, Can Wang, Sheng Zhou, Qihao Shi, Yan Feng, and Chun Chen. "SamWalker: Social Recommendation with Informative Sampling Strategy." In The World Wide Web Conference, pp. 228-239. ACM, 2019. <br>
-As well as its extension: <br>
-Can Wang, Jiawei Chen, Sheng Zhou, Qihao Shi, Yan Feng, and Chun Chen. "SamWalker++: recommendation with informative sampling strategy." In IEEE Transactions on Knowledge and Data Engineering.
+This is our source codes for the conference paper: <br>
+[1] Jiawei Chen, Can Wang, Sheng Zhou, Qihao Shi, Yan Feng, and Chun Chen. "SamWalker: Social Recommendation with Informative Sampling Strategy." In The World Wide Web Conference, pp. 228-239. ACM, 2019. <br>
+and its extension: <br>
+[2] Can Wang, Jiawei Chen, Sheng Zhou, Qihao Shi, Yan Feng, and Chun Chen. "SamWalker++: recommendation with informative sampling strategy." In IEEE Transactions on Knowledge and Data Engineering.
 
 # Example to Run SamWalker++
 We implement SamWalker++ in Python 3.6. The required packages are as follows:
