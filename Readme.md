@@ -1,8 +1,7 @@
 # SamWalker & SamWalker++
 
-This is our source codes for the conference paper: <br>
+This is our source codes for the conference paper (SamWalker) and its extension (SamWalker++): <br>
 [1] Jiawei Chen, Can Wang, Sheng Zhou, Qihao Shi, Yan Feng, and Chun Chen. "SamWalker: Social Recommendation with Informative Sampling Strategy." In The World Wide Web Conference, pp. 228-239. ACM, 2019. <br>
-and its extension: <br>
 [2] Can Wang, Jiawei Chen, Sheng Zhou, Qihao Shi, Yan Feng, and Chun Chen. "SamWalker++: recommendation with informative sampling strategy." In IEEE Transactions on Knowledge and Data Engineering.
 
 # Example to Run SamWalker++
